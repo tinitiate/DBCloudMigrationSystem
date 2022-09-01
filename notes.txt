@@ -1,0 +1,27 @@
+
+
+Docker DB Installs on local machine
+1. MySQL
+2. PostgreSQL
+3. SQL Server
+-- 4. Oracle
+-- 5. Redshift
+-- 6. Snowflake
+-- 7. Azure SQL
+-- 8. Google Big query
+
+
+System views
+    names of all tables
+    names of all table-columns
+    names of all table-partitions
+    names of all table-indexes
+    names of all table-index-columns
+    names of all stored procs
+    names of all functions
+    names of all triggers
+    names of all db links
+
+
+schema_name,table_name,column_name,column_datatype,precision,scale
+                                   number          10        2
